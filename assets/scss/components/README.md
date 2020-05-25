@@ -1,0 +1,1 @@
+You can remove the components folder if you don't want to use the atomic design pattern
